@@ -11,6 +11,7 @@ if true then return {} end
 return {
   -- add gruvbox
   { "ellisonleao/gruvbox.nvim" },
+  { "wakatime/vim-wakatime", enabled = true },
 
   -- Configure LazyVim to load gruvbox
   {
