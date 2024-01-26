@@ -1,6 +1,6 @@
 return {
 	{
 		"ron-rs/ron.vim",
-		lazy = true,
+		lazy = false,
 	},
 }
