@@ -1,4 +1,4 @@
-local colorscheme = "gruvbox"
+local colorscheme = "moonfly"
 
 vim.defer_fn(function()
 	local ok, err = pcall(vim.api.nvim_command, "colorscheme " .. colorscheme)
