@@ -25,4 +25,7 @@ return {
 	{ "rebelot/kanagawa.nvim", name = "kanagawa", lazy = false, priority = 1000 },
 	{ "AlexvZyl/nordic.nvim", name = "nordic", lazy = false, priority = 1000 },
 	{ "kepano/flexoki-neovim", name = "flexoki", lazy = false, priority = 1000 },
+	{ "scottmckendry/cyberdream.nvim", name = "cyberdream", lazy = false, priority = 1000 },
+	{ "EdenEast/nightfox.nvim", name = "nightfox", lazy = false, priority = 1000 },
+	{ "Mofiqul/vscode.nvim", name = "vscode", lazy = false, priority = 1000 },
 }
